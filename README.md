@@ -1,6 +1,6 @@
 # Information Modelling & Analysis: Project 2
 
-Student: enter your name here
+Student: Lovnesh Bhardwaj
 
 Please follow the instructions provided in the project slides 
 and consider the submission instructions available on iCorsi.
