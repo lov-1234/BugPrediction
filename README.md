@@ -1,4 +1,4 @@
-# Information Modelling & Analysis
+# Bug Prediction
 
 Lovnesh Bhardwaj
 
